@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm RageOfFire</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rageoffire&label=Profile%20views&color=0e75b6&style=flat" alt="rageoffire" /> </p>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R0NRDP3)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rageoffire" alt="rageoffire" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs, Vuejs, Nextjs, Laravel**
