@@ -13,8 +13,6 @@ I'm available for freelance work, whether it's **building something new, fixing 
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rageoffire" alt="rageoffire" /></a> </p>
-
 <p align="left">
 </p>
 
