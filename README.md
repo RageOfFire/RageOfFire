@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm RageOfFire</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rageoffire&label=Profile%20views&color=0e75b6&style=flat" alt="rageoffire" /> </p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R0NRDP3)
+---
+
+### 💼 Work With Me
+
+Enjoying this project or need something custom?
+
+I'm available for freelance work, whether it's **building something new, fixing issues, or improving existing projects**.
+
+[![Hire Me on Fiverr](https://img.shields.io/badge/Hire_Me_on-Fiverr-1DBF73?style=for-the-badge)](https://www.fiverr.com/rageoffire)
+
+---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rageoffire" alt="rageoffire" /></a> </p>
 
@@ -16,15 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rageoffire&show_icons=true&locale=en" alt="rageoffire" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rageoffire&" alt="rageoffire" /></p>
-
----
-
-### 💼 Work With Me
-
-Enjoying this project or need something custom?
-
-I'm available for freelance work, whether it's **building something new, fixing issues, or improving existing projects**.
-
-[![Hire Me on Fiverr](https://img.shields.io/badge/Hire_Me_on-Fiverr-1DBF73?style=for-the-badge)](https://www.fiverr.com/rageoffire)
-
----
